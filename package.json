@@ -1,0 +1,25 @@
+{
+  "name": "shared",
+  "version": "1.0.0",
+  "description": "shared sharedzada",
+  "main": "server.js",
+  "engines": {
+    "node": "18.x"
+  },
+  "scripts": {
+    "start": "node server.js",
+    "dev": "node --watch server.js"
+  },
+  "dependencies": {
+    "fastify": "^4.24.3"
+  },
+  "keywords": [
+    "stumble-guys",
+    "tournament",
+    "backend",
+    "railway"
+  ],
+  "author": "Rkz7",
+  "license": "MIT"
+}
+
